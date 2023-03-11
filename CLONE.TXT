@@ -1,0 +1,3 @@
+How to git clone?
+command : 
+git clone paste the copy of file link
